@@ -1,0 +1,5 @@
+bin/
+.vscode/
+*.class
+*.log
+db.properties
